@@ -1,4 +1,4 @@
-PyYAML==5.3.1
+PyYAML==5.4
 Sphinx-Substitution-Extensions==2020.7.4.1
 Sphinx==3.2.1
 VWS-Auth-Tools==2020.5.31.0
